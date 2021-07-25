@@ -1,0 +1,10 @@
+.env
+.next
+node_modules
+
+app/node_modules
+app/.env
+app/.next
+
+api/node_modules
+api/.env

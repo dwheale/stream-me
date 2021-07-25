@@ -1,0 +1,1 @@
+export const DEFAULT_SESSION_SECRET = 'y2kktFe7^2PV^P6#eSJg3o3eyZHh!vB3';
